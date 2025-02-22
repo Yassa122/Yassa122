@@ -48,7 +48,7 @@ I'm Yassa, a passionate developer with an insatiable curiosity for **cutting-edg
 
 ## 📬 **Let's Connect**
 - **GitHub** – Drop a 🌟 star, open an issue, or contribute to my repos!
-- **LinkedIn** – [Connect here](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE)
-- **Email** – [Reach out](mailto:YOUR_EMAIL)
+- **LinkedIn** – [Connect here](https://www.linkedin.com/in/yassa-ashraf-b59309231/)
+- **Email** – [Reach out](mailto:yassa.ashraf56@gmail.com)
 
 ✨ **Together, let's create the next wave of intelligent solutions!**
