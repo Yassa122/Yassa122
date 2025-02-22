@@ -7,15 +7,11 @@ I'm Yassa, a passionate developer with an insatiable curiosity for **cutting-edg
 
 ## 📊 GitHub Stats
 
-![Profile Views](https://gpvc.arturio.dev/Yassa122)
 [![GitHub Followers](https://img.shields.io/github/followers/Yassa122?label=Follow&style=social)](https://github.com/Yassa122)
 [![GitHub Stars](https://img.shields.io/github/stars/Yassa122?style=social)](https://github.com/Yassa122)
 
 🌟 **Yassa's GitHub Stats**  
 ![Yassa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yassa122&show_icons=true&theme=codeSTACKr)
-
-🔥 **GitHub Streak**  
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=Yassa122&theme=codeSTACKr)
 
 🏆 **Trophies & Activity**  
 [![trophy](https://github-profile-trophy.vercel.app/?username=Yassa122&theme=onedark&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
