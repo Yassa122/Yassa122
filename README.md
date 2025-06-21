@@ -13,27 +13,12 @@ I'm Yassa, a passionate developer with an insatiable curiosity for **cutting-edg
 🌟 **Yassa's GitHub Stats**  
 ![Yassa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yassa122&show_icons=true&theme=codeSTACKr)
 
-🏆 **Trophies & Activity**  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Yassa122&theme=onedark&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-📈 **Contribution Graph**  
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yassa122&bg_color=1A1B27&color=ffffff&line=026EF2&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ## 🛠️ **Most Used Languages**
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yassa122&theme=codeSTACKr&layout=compact)
 
-| **Language**   | **Usage**  |
-|---------------|------------|
-| TypeScript    | 30.87%     |
-| Java          | 17.22%     |
-| CSS           | 19.42%     |
-| JavaScript    | 15.50%     |
-| Python        | 13.22%     |
-| HTML          | 3.77%      |
-
----
 
 ## ✨ **What Drives Me**
 - 🚀 **Innovation** – Harnessing emerging technologies to solve real-world problems.  
