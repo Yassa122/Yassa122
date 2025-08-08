@@ -5,20 +5,23 @@ I'm Yassa, a passionate developer with an insatiable curiosity for **cutting-edg
 
 ---
 
-## 📊 GitHub Stats
-
-[![GitHub Followers](https://img.shields.io/github/followers/Yassa122?label=Follow&style=social)](https://github.com/Yassa122)
-[![GitHub Stars](https://img.shields.io/github/stars/Yassa122?style=social)](https://github.com/Yassa122)
-
-🌟 **Yassa's GitHub Stats**  
-![Yassa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yassa122&show_icons=true&theme=codeSTACKr)
-
+<table>
+  <tr>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=Yassa122&theme=tokyonight" alt="GitHub Streak"/>
+      </a>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Yassa122&show_icons=true&theme=codeSTACKr" alt="GitHub Stats"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ **Most Used Languages**
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yassa122&theme=codeSTACKr&layout=compact)
-
 
 ## ✨ **What Drives Me**
 - 🚀 **Innovation** – Harnessing emerging technologies to solve real-world problems.  
