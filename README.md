@@ -4,7 +4,9 @@
 I'm Yassa, a passionate developer with an insatiable curiosity for **cutting-edge** technologies. My mission? To build **smart, intuitive**, and **seamless** solutions that empower individuals and businesses alike. From AI-driven insights to sleek front-end designs, I'm always exploring new horizons to make **tech dreams** a reality.
 
 ---
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yassa122&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
 <table>
   <tr>
     <td>
