@@ -16,8 +16,10 @@ I'm Yassa, a passionate developer with an insatiable curiosity for **cutting-edg
       </a>
     </td>
     <td>
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=Yassa122&show_icons=true&include_all_commits=true&theme=codeSTACKr&cache_seconds=86400" alt="GitHub Stats"/>
-    </td>
+      <img height="180" src="https://read-n7llrsspl-yassaashraf56-5065s-projects.vercel.app/api?username=Yassa122&show_icons=true&include_all_commits=true&include_orgs=true&count_private=true&theme=codeSTACKr&cache_seconds=86400" alt="GitHub Stats"/>
+
+
+  </td>
   </tr>
 </table>
 
