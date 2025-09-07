@@ -15,7 +15,11 @@ I'm Yassa, a passionate developer with an insatiable curiosity for **cutting-edg
       </a>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Yassa122&show_icons=true&theme=codeSTACKr" alt="GitHub Stats"/>
+      <img src="https://<your-vercel-domain>/api?username=Yassa122
+        &show_icons=true
+        &include_all_commits=true
+        &count_private=true
+        &theme=codeSTACKr" alt="GitHub Stats"/>
     </td>
   </tr>
 </table>
