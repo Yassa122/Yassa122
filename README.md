@@ -7,22 +7,20 @@ I'm Yassa, a passionate developer with an insatiable curiosity for **cutting-edg
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Yassa122&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
+
 <table>
   <tr>
     <td>
       <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=Yassa122&theme=tokyonight" alt="GitHub Streak"/>
+        <img height="180" src="https://streak-stats.demolab.com/?user=Yassa122&theme=tokyonight" alt="GitHub Streak"/>
       </a>
     </td>
     <td>
-      <img src="https://<your-vercel-domain>/api?username=Yassa122
-        &show_icons=true
-        &include_all_commits=true
-        &count_private=true
-        &theme=codeSTACKr" alt="GitHub Stats"/>
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=Yassa122&show_icons=true&include_all_commits=true&theme=codeSTACKr&cache_seconds=86400" alt="GitHub Stats"/>
     </td>
   </tr>
 </table>
+
 
 ---
 
